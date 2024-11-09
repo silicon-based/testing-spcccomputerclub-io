@@ -1,0 +1,6 @@
+id = "0001"
+title = "Test Article One"
+date = 1979-05-27
+tags = ["lorem", "ipsum"]
+draft = false
+thumbnail = "logo.jpg"

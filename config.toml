@@ -1,0 +1,3 @@
+[directories]
+articles = "content/markdowns/"
+notes = "content/notes/"
